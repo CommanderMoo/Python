@@ -1,0 +1,15 @@
+Speak('This is the Origin story of Four Legendary Fighters.
+')Speak('The first fighter is the Tank.')Speak('	 ...Strong like the Mountains...
+')Speak('The second fighter is the Healer.')Speak('	 ...Protector of Many...
+')Speak('The third fighter is the Scout.')Speak('	 ...Master of Deception...
+')Speak('The is the Fighter.')Speak('	 ...Master of Deception...
+')Speak('------------------------------------
+')Speak('The Legend states, that the Four Legends will meet each other.
+')Speak('That of which is inevitable.')
+Speak('One of the Legends will try to leave due to inequality.')
+Speak('Another will be harmed beyond repair.')
+Speak('The third will return broken.')
+Speak('But the final will bring the team back together.')
+Speak('------------------------------------
+')Speak('Only together can the Legends attempt to face the coming threat.
+')Speak('And only the gods can foresee the outcome.')

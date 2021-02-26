@@ -1,0 +1,5 @@
+
+ Speak('Hello, this is the program!!!') 
+ Speak('The book will provide you with everything you need.') 
+ Speak('using the book please follow these instructions. ') 
+ Speak('Goodbye from the program!!') 
